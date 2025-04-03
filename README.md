@@ -64,3 +64,10 @@ The dataset included:
 - ANN captured non-linear patterns but at the cost of interpretability
 
 ---
+
+## References
+Selvakanmani et al., "Automated Prediction for Car Resale Values Using AI", ICACCS, 2024
+
+Lavanya et al., "Vehicle Resale Price Prediction using Machine Learning", Juni Khyat, 2021
+
+Dholiya et al., "Automobile Resale System Using Machine Learning", IRJET, 2019
